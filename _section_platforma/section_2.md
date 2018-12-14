@@ -1,0 +1,5 @@
+---
+title: Dé garage in Emmen en omgeving
+img: /images/front_page/fp1.png
+---
+Sinds 2013 is Garage Jagt actief in Emmen. We zijn aangesloten bij de BOVAG en RDW erkend. Tevens bieden wij een full-service aanbod voor elk automerk. Onze monteurs zijn uitstekend opgeleid en hebben kennis van alle automerken om auto’s op deze manier uitmuntend te onderhouden. Een bijkomend voordeel is dat wij de originele en A-kwaliteit onderdelen goedkoper inkopen, en daar profiteert u direct van mee! Voor APK-Keuringen, banden, regulier onderhoud én seizoenscontroles bent u bij Garage Jagt in Emmen aan het juiste adres. Maar uiteraard bent u niet alleen voor het onderhouden van uw auto bij ons aan het juiste adres. Ook voor de aankoop van een nieuwe auto of een jong gebruikte occasion zult u bij Garage Jagt in Emmen gegarandeerd slagen.
