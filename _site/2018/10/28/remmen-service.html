@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/main.css"/>
     <link rel="stylesheet" href="/css/style.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
     <script src="/js/jquery-3.2.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </head>
@@ -31,7 +32,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html" class="highlight" >Home</a></li>
+        <li><a href="/index.html" class="highlight" >Home</a></li>
         <li><a href="/occasions.html">Occasions</a></li>
         <li><a href="/financial_lease.html">Financiering</a></li>
         <li><a href="/werkplaats.html">Werkplaats</a></li>
@@ -77,8 +78,7 @@
       <h4>Links</h4>
        <ul>
          <li><a href="#">Algemene voorwaarden</a></li>
-         <li><a href="#">Privacy verklaring</a></li>
-         <li><a href="#">Disclaimer</a></li>
+         <li><a href="/pdf/privacy_statement_14-12-2018.pdf">Privacy verklaring</a></li>
        </ul>
      </div>
      <div class="col-md-3 menufooter">
@@ -100,6 +100,18 @@
      </div>
    </div> 
    </div> 
+
+ <!-- START Bootstrap-Cookie-Alert -->
+<div class="alert text-center cookiealert" role="alert">
+    <b>Hou jij ook van cookies?</b> &#x1F36A; Met cookies zorgen wij voor de beste belevenis op onze website <a href="/pdf/privacy_statement_14-12-2018.pdf" target="_blank">Lees verder</a>
+
+    <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+        Akkoord
+    </button>
+</div>
+<!-- END Bootstrap-Cookie-Alert -->
+<script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
+
 </section>
   </body>
 

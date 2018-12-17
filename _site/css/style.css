@@ -429,11 +429,11 @@ Image credits: unsplash.com
     border-color: #d16643;
 }
 
-th {
+.slidtable th {
     float: right;
     margin-left: 120px;
 }
-td, th {
+.slidtable td, th {
     padding: 0;
     font-weight: 600;
     color: white;
