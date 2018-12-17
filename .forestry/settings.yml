@@ -1,0 +1,47 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: directory
+  path: _section_pricetable
+  label: Section pricetable
+  create: all
+  match: "**/*"
+- type: directory
+  path: _section_platforma
+  label: Section platforma
+  create: all
+  match: "**/*"
+- type: directory
+  path: _section_feature
+  label: Section feature
+  create: all
+  match: "**/*"
+- type: directory
+  path: _page_diversen
+  label: Page diversen
+  create: all
+  match: "**/*"
+- type: directory
+  path: _page_werkplaats
+  label: Page werkplaats
+  create: all
+  match: "**/*"
+- type: directory
+  path: _page_financiering
+  label: Page financiering
+  create: all
+  match: "**/*"
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
